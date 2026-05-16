@@ -125,6 +125,7 @@ body {
     font-size: 16px;
     cursor: pointer;
     transition: all 0.3s ease;
+    transition: 0.8s;
 }
 
 
@@ -143,6 +144,7 @@ body {
     font-size: 16px;
     cursor: pointer;
     transition: all 0.3s ease;
+    transition: 0.8s;
 }
 
 .btn-secondary:hover {
@@ -161,6 +163,7 @@ body {
     border-radius: 10px;
     font-size: 16px;
     cursor: pointer;
+    transition: 0.8s;
 }
 
 .btn-thirdy:hover {
